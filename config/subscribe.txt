@@ -10,3 +10,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
+https://bc.188766.xyz/?ip=192.168.1.110&lunbo=false&mima=bingcha1130&huikan=1
+http://34.80.236.126:50007/?type=m3u&token=lance65&proxy=true
+https://live.tv.darwinchow.com/sub/02Rpd8DPN6nO5NKuCNdSIAzE99UO0t/txt
+https://www.go-iptv.ggff.net/sub.php?user=Bd_7Ow_6CzS_BIqxICUucYYj
+http://34.80.236.126:50002/Sub.m3u?token=lance65&sd=1080&proxy=true
