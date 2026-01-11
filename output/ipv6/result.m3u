@@ -1,38 +1,38 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/shnagdu/iptv-api65/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-09 22:16:37
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078203&livepid=600001859&defn=fhd$订阅源
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078203&livepid=600001859&defn=fhd$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-11 18:30:00
+https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024075403&livepid=600001800&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024075403&livepid=600001800&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024068503&livepid=600001801&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://caonima.tzh911.qzz.io/play-smt.php?id=Cctv4$订阅源
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078303&livepid=600001814&defn=fhd$订阅源
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://caonima.tzh911.qzz.io/play-smt.php?id=cctv5$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078403&livepid=600001818&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078003&livepid=600001817&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-https://caonima.tzh911.qzz.io/play-smt.php?id=cctv6$订阅源
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2013693903&livepid=600108442&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024072003&livepid=600004092&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://iptv.catvod.com/live.php?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7$订阅源
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078503&livepid=600001803&defn=fhd$订阅源
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://iptv.catvod.com/live.php?id=CCTV9%E7%BA%AA%E5%BD%95$订阅源
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078603&livepid=600004078&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99$订阅源
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078703&livepid=600001805&defn=fhd$订阅源
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248703&livepid=600001806&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-https://caonima.tzh911.qzz.io/play-smt.php?id=cctv12$订阅源
+https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248803&livepid=600001807&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -40,65 +40,69 @@ http://cdn3.163189.xyz/163189/cctv13$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024079003&livepid=600001811&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248903&livepid=600001809&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249003&livepid=600001815&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
-https://caonima.tzh911.qzz.io/play-smt.php?id=cctv16$订阅源
+https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249103&livepid=600098637&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-https://caonima.tzh911.qzz.io/play-smt.php?id=cctv17$订阅源
+https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249403&livepid=600001810&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2022823801&livepid=600171827&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://caonima.tzh911.qzz.io/play-smt.php?id=zhejiang_twn$订阅源
+https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-https://caonima.tzh911.qzz.io/play-smt.php?id=hunan_twn$订阅源
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-https://caonima.tzh911.qzz.io/play-smt.php?id=beijing$订阅源
+https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024052703&livepid=600002309&defn=fhd$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-https://caonima.tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn$订阅源
+https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
-https://caonima.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd$订阅源
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 https://cdn6.101.qzz.io/163189/fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
-http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-https://caonima.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx$订阅源
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://cdn6.101.qzz.io/163189/fhzx$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://www.terrykang.cn:5678/sxg.php?id=test2_4000$订阅源
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$订阅源
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
