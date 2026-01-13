@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-01-12 20:37:59,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024068503&livepid=600001801&defn=fhd$订阅源
+2026-01-13 18:26:44,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078303&livepid=600001814&defn=fhd$订阅源
 
 📺央视频道,#genre#
-CCTV-3,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024068503&livepid=600001801&defn=fhd$订阅源
 CCTV-4,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078303&livepid=600001814&defn=fhd$订阅源
 CCTV-5,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078403&livepid=600001818&defn=fhd$订阅源
 CCTV-5+,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078003&livepid=600001817&defn=fhd$订阅源
+CCTV-6,https://live.catvod.com/live.php?id=cctv6$订阅源
+CCTV-6,https://caonima.tzh911.qzz.io/play-smt.php?id=cctv6$订阅源
 CCTV-6,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2013693903&livepid=600108442&defn=fhd$订阅源
 CCTV-7,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024072003&livepid=600004092&defn=fhd$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7$订阅源
@@ -16,10 +17,12 @@ CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99$订阅�
 CCTV-10,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2024078703&livepid=600001805&defn=fhd$订阅源
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2$订阅源
 CCTV-11,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248703&livepid=600001806&defn=fhd$订阅源
+CCTV-12,https://live.catvod.com/live.php?id=cctv12$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95$订阅源
+CCTV-12,https://caonima.tzh911.qzz.io/play-smt.php?id=cctv12$订阅源
 CCTV-12,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248803&livepid=600001807&defn=fhd$订阅源
-CCTV-13,http://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,http://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -29,23 +32,31 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 CCTV-14,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027248903&livepid=600001809&defn=fhd$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
 CCTV-15,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249003&livepid=600001815&defn=fhd$订阅源
+CCTV-16,https://live.catvod.com/live.php?id=cctv16$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
+CCTV-16,https://caonima.tzh911.qzz.io/play-smt.php?id=cctv16$订阅源
 CCTV-16,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249103&livepid=600098637&defn=fhd$订阅源
+CCTV-17,https://live.catvod.com/live.php?id=cctv17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
+CCTV-17,https://caonima.tzh911.qzz.io/play-smt.php?id=cctv17$订阅源
 CCTV-17,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2024078203&cnlid=2027249403&livepid=600001810&defn=fhd$订阅源
 
 ☘️河南频道,#genre#
 
 🌊港·澳·台,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
+凤凰中文,https://live.catvod.com/live.php?id=phoenixtv_hd$订阅源
+凤凰中文,https://caonima.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+凤凰资讯,https://live.catvod.com/live.php?id=phoenixinfo_hd$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
