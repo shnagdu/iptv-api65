@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/shnagdu/iptv-api65/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-23 18:53:36
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-25 18:51:31
 https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源

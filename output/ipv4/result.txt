@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-23 18:53:36,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
+2026-03-25 18:51:31,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
