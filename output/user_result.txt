@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 18:51:31,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
+2026-03-27 18:52:05,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
@@ -40,7 +40,6 @@ CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$订阅源
 CCTV-16,https://live.tv.darwinchow.com/channel/cctv16?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
-CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
 CCTV-17,https://live.tv.darwinchow.com/channel/cctv17?livekey=01WUdZL51MreRSk61Qh5nbv4gJohYRYkHiG35&userkey=b75bff51f9b434f1$订阅源
 CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
