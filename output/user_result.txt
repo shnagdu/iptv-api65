@@ -1,33 +1,19 @@
 🕘️更新时间,#genre#
-2026-04-03 18:44:43,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8$订阅源
+2026-04-05 18:35:00,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8$订阅源
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8$订阅源
-CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$订阅源
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8$订阅源
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
-CCTV-10,http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$订阅源
-CCTV-11,http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$订阅源
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8$订阅源
-CCTV-12,http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009$订阅源
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源
-CCTV-14,http://38.75.136.137:98/gslb/dsdqca/chcdzdyhd.m3u8?auth=test20251009$订阅源
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
-CCTV-15,http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$订阅源
-CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
 CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 
 ☘️河南频道,#genre#
 
