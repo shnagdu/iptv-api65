@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-05 18:35:00,https://smt.goiptv.de5.net/smt.php?id=cctv4$订阅源
+2026-04-07 18:56:56,https://smt.goiptv.de5.net/smt.php?id=cctv4$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://smt.goiptv.de5.net/smt.php?id=cctv4$订阅源
