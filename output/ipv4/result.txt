@@ -1,23 +1,10 @@
 🕘️更新时间,#genre#
-2026-09-23 22:45:10,http://74.91.26.218:82/live/cctv3hd.m3u8$订阅源
+2026-09-25 23:02:32,http://74.91.26.218:82/live/cctv3hd.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8$订阅源
-CCTV-6,http://101.66.198.207:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-7,http://101.66.198.207:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-8,http://101.66.198.207:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-9,http://101.66.198.207:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-10,http://101.66.198.207:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-11,http://101.66.198.207:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-12,http://101.66.198.207:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-12,http://223.78.65.165:9901/tsfile/live/0013_1.m3u8$订阅源
-CCTV-13,http://101.66.198.207:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
-CCTV-14,http://101.66.198.207:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-14,http://223.78.65.165:9901/tsfile/live/0015_1.m3u8$订阅源
-CCTV-15,http://101.66.198.207:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8$订阅源
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 
 ☘️河南频道,#genre#
